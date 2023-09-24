@@ -1,0 +1,59 @@
+.content_container {
+  width: 300px;
+  height: 400px;
+  display: grid;
+  grid:
+    "header header" 60px
+    "r1c1 r1c2" 155px
+    "r2c1 r2c2" 155px
+    "tail tail" 30px
+    /50% 50%;
+
+  background-color: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05), 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+  padding: 10px;
+}
+.felix-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.content_heading {
+  font-size: 20px;
+  font-weight: 900;
+  word-wrap: break-word;
+  margin-bottom: 3px;
+}
+.content-card-gird-img {
+  width: 130px;
+  height: 110px;
+}
+
+.image-title {
+  font-size: 11px;
+}
+.content_tail > a {
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.content_tail {
+  grid-area: tail;
+  overflow: hidden;
+}
+.content_heading {
+  grid-area: header;
+}
+.r1c1 {
+  grid-area: r1c1;
+}
+.r1c2 {
+  grid-area: r1c2;
+}
+.r2c1 {
+  grid-area: r2c1;
+}
+.r2c2 {
+  grid-area: r2c2;
+}

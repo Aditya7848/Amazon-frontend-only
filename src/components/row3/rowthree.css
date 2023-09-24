@@ -1,0 +1,9 @@
+.rowthree-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 1500px;
+  z-index: 1;
+}

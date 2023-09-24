@@ -1,0 +1,185 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  align-items: center;
+  width: 100vw;
+  height: 50px;
+
+  background-color: #131921;
+}
+.nav_image {
+  height: 40px;
+  width: 100px;
+  align-items: center;
+}
+.nav_image > .amazon_logo {
+  height: 100%;
+  width: 100%;
+}
+
+.nav_location {
+  display: flex;
+  margin: 1px 0px 1px 0px;
+  position: absolute;
+  left: 120px;
+  margin-left: -5px;
+}
+.nav_location_tail {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.nav_drop_bubble {
+  fill: white;
+  width: 1.5em;
+  height: 1.5em;
+}
+.nav_location_text_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.nav-location_text {
+  font-size: 15px;
+  color: #778a93;
+  margin-bottom: -5px;
+}
+.nav_location_tail_text {
+  font-size: 15px;
+  color: white;
+}
+
+.nav_searchbox {
+  display: flex;
+}
+
+.nav_cart_icon {
+  fill: white;
+  width: 2.5em;
+  height: 1.5em;
+  position: absolute;
+  top: -13px;
+  right: -15px;
+}
+.nav_cart {
+  position: relative;
+  text-align: center;
+  top: 5px;
+  margin-right: 50px;
+}
+.nav_cart_text {
+  width: 15px;
+  height: 15px;
+  font-size: 10px;
+  border-radius: 50%;
+  color: red;
+  background-color: white;
+  position: absolute;
+  top: -20px;
+  right: -15px;
+}
+.select {
+  width: 90px;
+  height: 35px;
+  border-radius: 6px 0px 0px 6px;
+  margin-right: -20px;
+  position: absolute;
+  z-index: 1;
+  left: 320px;
+}
+.nav_search_icon {
+  border-radius: 0px 6px 6px 0px;
+  height: 35px;
+  z-index: 1;
+  position: absolute;
+  left: 825px;
+  height: 2.2rem;
+  width: 3rem;
+  background-color: #ffcc70;
+}
+.input {
+  all: unset;
+  background-color: aliceblue;
+  border-radius: 7px;
+  height: 35px;
+  padding: 0px 90px 0px 20px;
+  width: 350px;
+  position: absolute;
+  left: 400px;
+}
+.nav_searchbox {
+  margin-top: 6px;
+  position: absolute;
+  top: 1px;
+}
+
+.nav_lang_tooltip {
+  width: 50px;
+  color: white;
+  position: absolute;
+  left: 900px;
+}
+.nav_lang_tooltip:hover .lang_container {
+  display: block;
+}
+.lang_container {
+  position: absolute;
+  top: 50px;
+  border-radius: 8px;
+}
+
+.nav_lang_tooltip_head {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.nav_lang_tooltip_india_img {
+  height: 20px;
+  width: 20px;
+}
+
+.sign-in_tooltip {
+  width: 150px;
+  height: 35px;
+  color: white;
+  position: absolute;
+  left: 960px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.signin_inner {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+.signin-inner-hello {
+  font-size: 13px;
+  color: #778a93;
+}
+.signin_inner_account {
+  font-size: 14px;
+}
+.signin-tooltip-container {
+  visibility: hidden;
+  position: absolute;
+  top: 65px;
+  right: -15px;
+  border: 1px solid red;
+  border-radius: 6px;
+}
+.sign-in_tooltip:hover .signin-tooltip-container {
+  visibility: visible;
+}
+.nav_returnorders {
+  color: white;
+  position: absolute;
+  right: 102px;
+  top: 5px;
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  font-weight: 400;
+}

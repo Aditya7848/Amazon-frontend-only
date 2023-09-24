@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/julyatf23/unrec/one/WA_ETH_3000._CB598906425_.jpg",
+      "alt": "promo1"
+    },
+    {
+      "id": 2,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PCA/GW/Unrec/PCA_GW_PC-2X._CB577919462_.jpg",
+      "alt": "promo2"
+    },
+    {
+      "id": 3,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img15/4th/sept/unrechero/Tws_Tallhero_3000x1200._CB596104802_.jpg",
+      "alt": "promo3"
+    },
+    {
+      "id": 4,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/Shreyansh/BAU/Unrexc/D70978891_INWLD_BAU_Unrec_Uber_PC_Hero_3000x1200._CB594707876_.jpg",
+      "alt": "promo4"
+    },
+    {
+      "id": 5,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/Softlines_JWL_SH_GW_Assets/Sept/Onecard/Sports/Sports_3000._CB595761830_.jpg",
+      "alt": "promo5"
+    },
+    {
+      "id": 6,
+      "url": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/WLA/2023/Unrec/R1/D91435399_WLA-BAU-Unrec-Hero_DesktopTallHero_3000x1200_2._CB597781013_.jpg",
+      "alt": "promo6"
+    }
+  ]
+}

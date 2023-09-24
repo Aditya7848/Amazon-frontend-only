@@ -1,0 +1,48 @@
+ul {
+  list-style-type: none;
+}
+
+.signin-tooltip-container {
+  width: 350px;
+  height: 300px;
+  display: grid;
+  grid:
+    "top top" 50px
+    "left right" 450px / 50% 50%;
+  color: black;
+  font-size: 10px;
+  padding: 15px;
+  z-index: 1;
+  background-color: white;
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  margin-bottom: 5px;
+  grid-area: top;
+}
+.top_button {
+  width: 80%;
+  background-color: #ffcc70;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+.bottom_span {
+  margin-bottom: 2px;
+}
+.inner_bottom_line {
+  width: 80%;
+  height: 1px;
+  margin: 0px auto;
+  border-bottom: 1px solid #969696;
+}
+.left {
+  grid-area: left;
+}
+.right {
+  grid-area: right;
+}

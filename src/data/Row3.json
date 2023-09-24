@@ -1,0 +1,40 @@
+{
+  "cols3": [
+    {
+      "id": 1,
+      "title": "Up to 70% off | Styles for men",
+      "r1c1title": "Clothing",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-372-232._SY232_CB636110853_.jpg",
+      "r1c2title": "Footwear",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-372-232._SY232_CB636110853_.jpg",
+      "r2c1title": "Watches",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-372-232._SY232_CB636110853_.jpg",
+      "r2c2title": "Bags & wallets",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF_4-372-232._SY232_CB636110853_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Starting ₹99 | All your home improvement",
+      "r1c1title": "Spin mops, wipes & more",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_376x232_4._SY232_CB600489960_.jpg",
+      "r1c2title": "Bathroom hardware & accessories",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_376x232_3._SY232_CB600489960_.jpg",
+      "r2c1title": "Hammers, screwdrivers & more",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_376x232_7._SY232_CB600489960_.jpg",
+      "r2c2title": "Extension boards, plugs & more",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_376x232_5._SY232_CB600489960_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Up to 70% off | Styles for women",
+      "r1c1title": "Women's Clothing",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF1-372-232._SY232_CB636048992_.jpg",
+      "r1c2title": "Footwear+Handbags",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF2-372-232._SY232_CB636048992_.jpg",
+      "r2c1title": "Watches",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF4-372-232._SY232_CB636048992_.jpg",
+      "r2c2title": "Fashion jewellery",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF3-372-232._SY232_CB636048992_.jpg"
+    }
+  ]
+}

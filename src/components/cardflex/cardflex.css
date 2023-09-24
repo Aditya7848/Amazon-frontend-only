@@ -1,0 +1,35 @@
+.fcard-container {
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  padding: 20px 20px 5px 20px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05), 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+img {
+  height: 100px;
+  width: 120px;
+  border-radius: 5px;
+}
+.flex-div {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+p {
+  font-size: 11px;
+  word-break: break-word;
+}
+.fcard-title {
+  font-size: large;
+  font-weight: 800;
+}
+a {
+  text-decoration: none;
+  font-size: 12px;
+}

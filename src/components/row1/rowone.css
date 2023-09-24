@@ -1,0 +1,8 @@
+.rowone-container {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 1920px;
+  z-index: 1;
+}

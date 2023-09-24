@@ -1,0 +1,52 @@
+{
+  "cols1": [
+    {
+      "id": 1,
+      "title": "Offers on travel tickets",
+      "r1c1title": "Up to ₹5000 off | Flight tickets",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/APAYMOVIE/travelQC/Flight_1_372x232._SY232_CB618818079_.jpg",
+      "r1c2title": "Zero gateway charges on trains",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/AmazonPay/Movies/QC/Train_1_372x232_42KB._SY232_CB577902989_.png",
+      "r2c1title": "Guaranteed rewards on bus tickets",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/APAYMOVIE/travelQC/Bus_1_372x232._SY232_CB618818079_.jpg",
+      "r2c2title": "Products for your travel needs",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/APAYMOVIE/travelQC/Accessory_186x116._SY232_CB618818544_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Automotive essentials | Up to 60% off",
+      "r1c1title": "Cleaning accessories",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare2x._SY232_CB410830552_.jpg",
+      "r1c2title": "Tyre & rim care",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare2x._SY232_CB410830552_.jpg",
+      "r2c1title": "Helmets",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_372x232._SY232_CB405083904_.jpg",
+      "r2c2title": "Vacuum cleaner",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum2x._SY232_CB410830555_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Up to 40% off | Baby care",
+      "r1c1title": "Diapers & wipes",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Baby/cnnjpp1/Diapers_wipes_2._SY232_CB613220507_.jpg",
+      "r1c2title": "Bath & skincare",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Baby/cnnjpp1/skin_care_2._SY232_CB613220507_.jpg",
+      "r2c1title": "Feeding supplies",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Baby/cnnjpp1/feeding_supplies_2._SY232_CB613220507_.jpg",
+      "r2c2title": "View all baby essentials",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Baby/cnnjpp1/View_all_baby_ess_2._SY232_CB613220507_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Birthday store",
+      "r1c1title": "Gift for men",
+      "r1c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GWBdaystore/Artboard_1QC2_2x._SY232_CB662999952_.jpg",
+      "r1c2title": "Gift for women",
+      "r1c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GWBdaystore/Artboard_1QC2_2x._SY232_CB662999952_.jpg",
+      "r2c1title": "Gift for boys",
+      "r2c1img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GWBdaystore/Artboard_3QC2_2x._SY232_CB662999952_.jpg",
+      "r2c2title": "Gift for girls",
+      "r2c2img": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/GWBdaystore/Artboard_4QC2_2x._SY232_CB662999955_.jpg"
+    }
+  ]
+}

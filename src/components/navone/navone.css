@@ -1,0 +1,16 @@
+.navone-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  height: 39px;
+  width: 100%;
+  font-weight: 300;
+  gap: 11px;
+  background-color: #232f3e;
+  color: white;
+}
+
+.doHide {
+  display: none;
+}

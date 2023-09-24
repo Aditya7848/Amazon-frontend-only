@@ -1,0 +1,22 @@
+.cardsingleimage-container {
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: white;
+  gap: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05), 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.cardsingleimage-container > p {
+  font-size: 21px;
+}
+.cardsingleimage-container > img {
+  width: 98%;
+  height: 80%;
+}
+.cardsingleimage-container > span {
+  font-size: 12px;
+}
