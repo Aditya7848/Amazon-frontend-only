@@ -3,7 +3,7 @@ import { CgProfile } from "react-icons/cg";
 import "./burgerone.css";
 
 const BurgerMenu = ({ setShow }) => {
-  console.log(setShow);
+  
   return (
     <div className="burger-container doHide">
       <div className="burger-toppest">
