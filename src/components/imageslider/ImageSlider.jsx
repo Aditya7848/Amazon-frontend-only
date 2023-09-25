@@ -43,7 +43,7 @@ const ImageSlider = ({ data }) => {
 
 function List({ fdata = [] }) {
   if (!fdata.length) return;
-  console.log(fdata);
+  
   return (
     <div className="img-container">
       {fdata.map((obj) => {
